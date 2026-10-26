@@ -64,3 +64,13 @@ This lab is intended for educational purposes and authorized testing only.
 Dhairay Kanojiia
 
 Cybersecurity Internship — Week 1
+<!-- <div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div> -->
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@2x._.dhairay._.x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dhairaykanojia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhairaykanojia@gmail.com) 
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
